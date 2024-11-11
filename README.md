@@ -1,10 +1,10 @@
 Step:1
 
 Required softwares to install:
-intellij community edition
-jdk17
-maven
-postman
+intellij community edition,
+jdk17,
+maven,
+postman,
 mysql
 
 Step2:
